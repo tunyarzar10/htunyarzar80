@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Htun Yar Zar</h1>
-<h3 align="center">A passionate MERN Stack developer from Myanmar</h3>
+<h1 align="center">Hi 👋, I'm Tun Yar Zar Toe</h1>
+<h3 align="center">A passionate software developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htunyarzar80&label=Profile%20views&color=0e75b6&style=flat" alt="htunyarzar80" /> </p>
 
